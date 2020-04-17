@@ -1,0 +1,1 @@
+add config/config.php to .gitignore on production
